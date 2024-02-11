@@ -1,5 +1,5 @@
 CC=g++ -std=c++11 -g
-exe=asm4
+exe=game
 
 
 # Complete the makefile
